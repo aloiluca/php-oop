@@ -1,9 +1,9 @@
 <?php
 
 // Include delle classi interessate
-include('Person.php');
-include('Utente.php');
-include('Post.php');
+include('model/Person.php');
+include('model/Utente.php');
+include('model/Post.php');
 
 /* Creazione di 2 istanze della classe Utente che estende la classe Person */
 
