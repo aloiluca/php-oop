@@ -20,7 +20,7 @@ Il codice è pieno di commenti per facilitare l'utilizzo e lo studio del codice 
 I contentuti sono in costante aggioranamento quindi sempre sintonizzati.  
 
 
-##PHP Object Oriented Programming
+## PHP Object Oriented Programming
 La programmazione ad oggetti è un concetto molto diffuso nei linguaggi di programmazione, non solo in PHP.
 
 Php è un linguaggio lato server: ogni qual volta viene richiesto un certo URI il server php si fa carico di elaborare e 
